@@ -8,14 +8,6 @@ void main() {
   runApp(HomePage());
 }
 
-/*
-[BLOG.ROBERTOCPAES.DEV - HYPERFOCUS - PERSONAL DATA COMMENTARY - IGNORE]
-  At this moment we dont have energy to dev anything.
-  This is because we are at a conjucture failure at routine manager and Wakatime stopped to notify me.
-  This means that without wakatime, i suddenly immerse at my hyperfocus project and lost my selfcare.
-  BLOG.ROBERTOCPAES.DEV - HYPERFOCUS - PERSONAL DATA COMMENTARY - IGNORE]
-*/
-
 class HomePage extends StatelessWidget {
   final _initialModPackState = ModPackBlocState.createDefault();
   @override
